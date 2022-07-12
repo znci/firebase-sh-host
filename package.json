@@ -1,0 +1,19 @@
+{
+  "name": "firebase-sh-host",
+  "version": "1.0.0",
+  "description": "Hosts your scripts",
+  "main": "public/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/znci/firebase-sh-host.git"
+  },
+  "author": "znci",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/znci/firebase-sh-host/issues"
+  },
+  "homepage": "https://github.com/znci/firebase-sh-host#readme"
+}
